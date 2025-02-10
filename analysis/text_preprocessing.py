@@ -12,8 +12,7 @@ def preprocess_text(file_path):
     if not os.path.isfile(file_path):
         print(f'File path "{file_path}" does not exist.')
         return False
-
-    print(f'file_path = {file_path}')
+    
     # Read and preprocess file
     with open(file_path, 'r') as file:
         content = file.read()

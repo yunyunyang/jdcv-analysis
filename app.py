@@ -7,12 +7,12 @@ from analysis.match_evaluation import evaluate_match
 basepath = os.path.dirname(__file__)
 
 # CV and JD path
-cv_text = "/data/cv-testd.txt"
+cv_text = "/data/cv-test.txt"
 job_desc_text = "/data/jd-test.txt"
 
 # Text preprocessing
-path = basepath + cv_text
-cv_text = preprocess_text(path)
+print(basepath + cv_text)
+cv_text = preprocess_text(basepath + cv_text)
 job_desc_text = preprocess_text(basepath + job_desc_text)
 
 # Extract keyword
