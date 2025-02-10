@@ -1,0 +1,54 @@
+Software Engineer
+
+About the job
+Build Your Career at Informatica
+
+We're looking for a diverse group of collaborators who believe data has the power to improve society. Adventurous minds who value solving some of the world's most challenging problems. Here, employees are encouraged to push their boldest ideas forward, united by a passion to create a world where data improves the quality of life for people and businesses everywhere.
+
+Software Engineer. Stuttgart or Dublin
+
+We are seeking an experienced Software Engineer with expertise in Java, Cloud development, and React to join our dynamic team. This hybrid role with two in-office days each week.
+
+You will report to the Director, Development.
+
+You will be engaging in software development in an agile engineering team developing MDM Product 360 releases.
+
+Technology You'll Use
+
+Your role will involve working with Java, React, cloud development, microservices architecture, NoSQL databases, design patterns, and using tools like Jira, Confluence, and Jenkins, while leveraging strong problem-solving and analytical skills.
+
+Your Role Responsibilities? Here's What You'll Do
+
+Act as a strong and reliable team member within an agile development approach, contributing to the delivery of high-quality software for our MDM Solutions stack.
+Engage with an international team of architects, product managers, and peers to drive innovative solutions.
+Partner with a top-tier team to provide cutting-edge software to leading enterprise customers.
+Apply your strengths and expertise to excel in an agile environment and consistently deliver exceptional software solutions.
+Play a key role in building cloud-based business applications on a next-generation cloud platform.
+
+What We'd Like to See
+
+Finished software engineering study or comparable field
+You have proven advanced engineering skills and solid experience in software industry and cloud engineering
+You are experienced in UI frameworks can perfectly work with REACT
+You are having strong focus on fluid user experience, react driven UI
+Clean Code is not only a buzzword for you
+You are familiar with current standards and frameworks, especially the Spring Framework
+
+Role Essentials
+
+You have experience with Restful web services and build automation tools (Maven, Jenkins, etc.)
+You also enjoy brainstorming on design and love problem solving with a strong focus on teamwork
+Fluent in German and good skills in English
+BA/BS or equivalent educational background, we will consider an equivalent combination of relevant education and experience
+Minimum 2+ years of relevant professional experience
+
+Perks & Benefits
+
+Comprehensive health, vision, and wellness benefits (Paid parental leave, adoption benefits, life insurance, disability insurance and 401k plan or international pension/retirement plans
+Flexible time-off policy and hybrid working practices
+Equity opportunities and an employee stock purchase program (ESPP)
+Comprehensive Mental Health and Employee Assistance Program (EAP) benefit
+
+We're guided by our DATA values and passionate about building and delivering solutions that accelerate data innovations. We do that by creating an inclusive culture that celebrates and supports diversity. So, if your experience aligns but doesn't exactly match every qualification, apply anyway. You may be exactly who we need to fuel our future with innovative ideas and a thriving culture.
+
+Informatica (NYSE: INFA), a leader in enterprise AI-powered cloud data management, brings data and AI to life by empowering businesses to realize the transformative power of their most critical assets. We pioneered the Informatica Intelligent Data Management Cloud™ that manages data across any multi-cloud, hybrid system, democratizing data to advance business strategies. Customers in approximately 100 countries and more than 80 of the Fortune 100 rely on Informatica. www.informatica.com. Connect with LinkedIn, X, and Facebook. Informatica. Where data and AI come to life.™

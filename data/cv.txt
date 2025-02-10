@@ -1,0 +1,28 @@
+05/2023-03/2024		Data Analyst
+
+- Created an ETL process that reduced the time required to ingest 1,000+ semi-structured files by 50%, creating an informative dataset and Power BI dashboard for cross-functional stakeholders to review sales figures and potential customers
+- Migrated and refactored scripts from on-premise servers to Azure Databricks, automating data pipelines with Azure Data Factory and reducing manual intervention by 25%
+
+11/2022-04/2023		Data Analyst Intern
+
+- Analyzed KM system data using k-means clustering to uncover correlations between user behaviors and job positions, delivering interactive Power BI dashboards to identify user demands
+- Maintained and enhanced the usability of division sales and revenue Power BI dashboards, ensuring the performance of data pipelines and improving the data quality
+
+03/2011-08/2021		Software Engineer
+
+- Developed a hybrid corporate app using Vue.js, integrated Google Analytics to track user activity, enhancing user experience and doubling average app engagement
+- Developed and maintained a company portal for 20,000+ employees, integrating e-forms, e-meetings, and internal systems using Java to streamline data exchange, achieving a single multi-purpose portal
+- Achieved 99.95% SLA uptime by configuring a Zabbix server and agents for proactive monitoring, analyzing logs and databases to address slow response issues, and resolving malfunctions promptly
+- Designed and implemented REST APIs using Java and Spring to facilitate seamless data exchange between corporate systems
+
+07/2007-02/2011		Onsite Software Engineer
+Chunghwa Telecom
+
+- Developed and maintained an e-commerce platform using Java, Spring, Hibernate, and Apache Wicket, serving 40+ companies with personalized portals and login mechanisms for each
+- Developed a personalized product recommendation feature for an e-commerce website, utilizing analysis of popular items and user history, which led to a 20% increase in sales
+- Designed an e-commerce website and campaign landing pages, using A/B testing to optimize the user interface and experience, enhancing user processes and increasing user retention rate by 15%
+
+10/2006-03/2007 	Web Developer
+Cyber Global Tech
+
+- Built a customer service website and content management system using PHP, enabling employees to promptly address client issues online and reducing manual processing time by 25%
